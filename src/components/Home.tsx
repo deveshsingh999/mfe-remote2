@@ -8,7 +8,7 @@ function Home({ pageData }: HomeProps) {
 
   return (
     <>
-      <h1 className={styles.headingText}>React App 1</h1>
+      <h1 className={styles.headingText}>React App 2</h1>
       <div>Title: {title}</div>
       <div>Cart: {count}</div>
     </>
